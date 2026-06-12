@@ -20,15 +20,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/devanshimishra02/)L" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL" target="blank">
+<a href="[YOUR_PORTFOLIO_URL](https://personal-portfoliodevanshi.vercel.app/)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:devanshikumar05@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
