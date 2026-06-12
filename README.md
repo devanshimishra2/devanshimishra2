@@ -44,7 +44,7 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 </p>
 
 ### Backend
@@ -73,14 +73,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devanshimra2&theme=tokyonight&no-frame=true&no-bg=true" />
-</p
-
----
-
 ## 📂 Featured Projects
 
 ### 🩸 VitalDrop – Blood Donation Platform
@@ -88,7 +80,7 @@ A full-stack platform connecting blood donors and recipients with authentication
 
 **Tech:** React, Node.js, Express, MongoDB
 
-### 📄 AI PDF Chat Application
+### 📄 RAGBot
 An intelligent RAG-based application that allows users to upload PDFs and ask questions using AI.
 
 **Tech:** React, FastAPI, Vector Database, LLM APIs
@@ -118,7 +110,7 @@ A responsive portfolio showcasing projects, skills, and achievements.
 ---
 
 <p align="center">
-⭐ From [Devanshi Mishra](https://github.com/``
+⭐ From [Devanshi Mishra](https://github.com/devanshimishra2)``
 </p>
 <!--
 **devanshimishra2/devanshimishra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
