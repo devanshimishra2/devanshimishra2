@@ -110,7 +110,7 @@ A responsive portfolio showcasing projects, skills, and achievements.
 ---
 
 <p align="center">
-⭐ From [Devanshi Mishra](https://github.com/devanshimishra2)``
+⭐ From Devanshi Mishra
 </p>
 <!--
 **devanshimishra2/devanshimishra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
