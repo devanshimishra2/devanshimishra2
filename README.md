@@ -49,12 +49,12 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
