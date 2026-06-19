@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/devanshimishra02/)L" target="blank">
+<a href="https://www.linkedin.com/in/devanshimishra02/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -100,7 +100,9 @@ A responsive portfolio showcasing projects, skills, and achievements.
 - 💼 Preparing for Software Engineer roles
 
 ---
-
+## Coding Profiles
+<a href = "https://codolio.com/profile/devanshimishra/card">
+---
 ## 💬 Random Dev Quote
 
 <p align="center">
