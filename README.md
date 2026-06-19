@@ -100,8 +100,14 @@ A responsive portfolio showcasing projects, skills, and achievements.
 - 💼 Preparing for Software Engineer roles
 
 ---
+
 ## Coding Profiles
-<a href = "https://codolio.com/profile/devanshimishra/card">
+<p align="left">
+  <a href="https://codolio.com/profile/devanshimishra" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge" />
+  </a>
+</p> 
+
 ---
 ## 💬 Random Dev Quote
 
